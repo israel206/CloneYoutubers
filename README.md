@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="CloneYoutuber" title="CloneYoutuber" src=".github/logo.svg" />
+    <img alt="CloneYoutuber" title="CloneYoutuber" src=".github/Clone-Youtubers.png" width="50%" />
 </h1>
 
 <p align="center">
@@ -12,9 +12,9 @@
 <p align="center">
 
   [![Author](https://img.shields.io/badge/author-IsraelSilva-8257E5?style=flat-square)](https://github.com/israel206)
-  [![Languages](https://img.shields.io/github/languages/count/israel206/CloneYoutuber?color=%238257E5&style=flat-square)](#)
-  <img src="https://img.shields.io/github/forks/israel206/CloneYoutuber?label=forks&message=MIT&color=FFFFFF&labelColor=32B768" alt="Forks">
-  <img src="https://img.shields.io/github/stars/israel206/CloneYoutuber?label=stars&message=MIT&color=FFFFFF&labelColor=32B768" alt="Stars">
+  [![Languages](https://img.shields.io/github/languages/count/israel206/CloneYoutubers?color=%238257E5&style=flat-square)](#)
+  <img src="https://img.shields.io/github/forks/israel206/CloneYoutubers?label=forks&message=MIT&color=FFFFFF&labelColor=32B768" alt="Forks">
+  <img src="https://img.shields.io/github/stars/israel206/CloneYoutubers?label=stars&message=MIT&color=FFFFFF&labelColor=32B768" alt="Stars">
   <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=49AA26&labelColor=000000" alt="PRs welcome!" />
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
@@ -46,7 +46,7 @@ This project was developed using the following technologies:
 
   ```bash
     # clone repository
-    $ git clone https://github.com/israel206/CloneYoutuber.git
+    $ git clone https://github.com/israel206/CloneYoutubers.git
   ```
 
 ---
@@ -65,13 +65,7 @@ $ yarn
 
 # Run the backend fake server
 $ npm start
-# or
-$ yarn server
 
-# Run the web server
-$ npm run dev
-# or
-$ yarn dev
 ```
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
