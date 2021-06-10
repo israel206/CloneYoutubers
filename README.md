@@ -64,7 +64,7 @@ This project was developed using the following technologies:
 $ yarn
 
 # Run the backend fake server
-$ npm start
+$ yarn start
 
 ```
 
