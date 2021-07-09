@@ -141,8 +141,6 @@ This section has moved here: <https://facebook.github.io/create-react-app/docs/t
 
 ## 💻 Project
 
-App to always remember to water your plants 🌱
-
 developing web application
 
 ---
